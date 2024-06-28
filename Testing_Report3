@@ -1,0 +1,9 @@
+Depybot----> Pass
+Nxinx-----> Pass
+Ubuntu --->Pass
+Nexux Artifactory----> Deployed
+Apache2----->Webserver Deply Success
+
+Docker Images uploaded in Nexus Artifactory
+
+scp image_artifactor (/home/ubuntu/var/www/html)
